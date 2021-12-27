@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmadjandal
 - 👀 I’m interested in Python, PHP, and SQL, but most of my experience is in C++. 
-- 🌱 I’m currently a student at Georgetown University studing Science, Technology, International Affairs with an emphasis on Computer Science and Security
+- 🌱 I’m currently a student at Georgetown University studing Science, Technology, International Affairs with an emphasis on Computer Science.
 - 💞️ I’m looking to collaborate on anything that makes life easier. I like to make iOS shortcuts and code that let me automate mundane tasks so I can focus on the fun stuff!
 - 📫 Shoot me an email at jandalahmad@gmail.com
